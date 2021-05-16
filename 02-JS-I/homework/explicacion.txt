@@ -1,0 +1,18 @@
+Variables: son como cajitas donde guardamos los numeros de casilleros donde
+guardamos cosas, las cosas son los valores q queremos guardar.
+
+Strings: palabras o frases a las cuales podemos copiar, cortar, cambiar a 
+mayuscula/minuscula, etc... pero cuando hacemos algunas de la operaciones
+anteriores se crean copias de nuestra frase para no modificar la original.
+
+Funciones: Son las ordenes que nosotros le damos a la computadora. Por
+ejemplo una funcion q se llame saludar le podemos decir q primero nos 
+pregunte nuestro nombre y luego diga Hola Adriana!
+
+if: Es una condicion. Como cuando la maestra te dice 'si' queres aprobar 
+el examen tenes q estudiar, 'si no' estudias no aprobas.
+
+Valor booleano: Son valores q pueden ser verdadero o falso, volviendo al 
+ejemplo anterior llegas al examen y la primera pregunta es Etudiaste? falso 
+equivaldria a no y verdadero equivaldria a si. Si estudiaste marcas la opción
+verdadero, si no marcas falso. 
