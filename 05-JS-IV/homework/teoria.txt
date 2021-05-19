@@ -1,0 +1,19 @@
+Objetos: Al igual q el concepto de objeto en la vida real los objetos en JS
+representan cosas por ejemplo por ejemplo un objeto vehículo.
+
+Propiedades: Pertenecen a los objetos, son como las cualidades q los describen.
+Por ejemplo el objeto vehículo tiene un color, una velocidad maxima, un numero
+de ruedas, etc. 
+
+Metodos: También pertenecen a los objetos, pero describen las cosa q el objeto
+puede hacer como acelerar, frenar, ir en reversa, etc. Los métodos, en el caso
+del objeto vehículo serían el motor, lo q le dá movimiento, lo q hace q un vehículo
+sea un vehiculo.
+
+For... in: Es un bucle q se utiliza para buscar dentro de un objeto, entre sus
+propiedades y métodos
+
+Notacón de punto vs notación de corchetes: Usamos la notacion de punto 
+cuando la propiedad o método existe y conocemos su nombre. La notación de
+corchetes se usa cuando el nombre de la propiedad es pasado por parametro a
+una función. 
