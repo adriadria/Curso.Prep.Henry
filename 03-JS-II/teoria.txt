@@ -1,0 +1,15 @@
+For: bucle repetitivo. Es como un carousel q gira hasta q
+se acaba el tiempo o hasta q se cumpla una condidion, normalmente 
+hasta q una variable q comienza en 0 alcance un numero q hayamos definido
+nosotros o el usuario.
+
+&&: operador lógico "Y". Lo usamos cuando queremos q se ejecute nuestro 
+código al cumplirse más de una condición. Imagina q querés prepar fideos al
+pesto, nacesitas fideos && pesto. sin uno de los dos no sería fideos al pesto
+
+||: operador lógico "O". Lo usamos cuando queremos q se ejecute nuestro código
+al cumplisre por lo menos una de varias condiciones por ejemplo al té le 
+podes poner azúcar o stevia o ambos.
+
+!: operador lógico "NO". Lo usamos cuando queremos q se ejecute nuestro código
+al NO cumplirse la condición. Ejemplo si queres madrugar NO deberias desvelarte
