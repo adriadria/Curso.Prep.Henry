@@ -1,0 +1,4 @@
+Arrays: Arreglos. Son colecciones de datos. Podemos guardar datos de 
+distinto tipo pero normalmente los usamos para organizar datos, es decir,
+normalmente guardamos datos del mismo tipo como un arreglo de usuarios,
+un arreglo de productos, etc.
